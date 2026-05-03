@@ -13,52 +13,61 @@
 ---
 
 ## 📖 Introduction
-This project demonstrates the deployment of a simple Python-based web application using Google Cloud Platform. The application is developed using Flask framework and performs basic computations.
+This project demonstrates a simple web application deployed on a cloud platform. The application performs basic operations like HCF, LCM, string reversal, and factorial calculation. It is developed using HTML, CSS, and JavaScript and deployed using Netlify.
 
 ---
 
 ## ⚙️ Features
-- ✅ Calculate HCF (Highest Common Factor)  
-- ✅ Calculate LCM (Least Common Multiple)  
-- ✅ Reverse a string  
-- ✅ Display factorials from 4 to 8  
+- Calculate HCF (Highest Common Factor)  
+- Calculate LCM (Least Common Multiple)  
+- Reverse a string  
+- Display factorials from 4 to 8  
 
 ---
 
 ## 🛠️ Technologies Used
-- Python  
-- Flask  
-- Google Cloud App Engine  
+- HTML  
+- CSS  
+- JavaScript  
+- Netlify  
 - GitHub  
 
 ---
 
-## 🚀 How to Run Locally
+## 🚀 Live Deployment
 
-1. Install Flask:
+👉 **Live URL:**  
+https://bcs601-4mw23cs080.netlify.app
+
+---
+
+## 📂 Project Structure
+BCS601-4MW23CS080/
+│── index.html
+│── README.md
+
 
 ---
 
 ## 📌 Steps Followed
 
-1. Created Flask application  
-2. Tested locally in VS Code  
-3. Created project in Google Cloud  
-4. Enabled App Engine  
-5. Deployed using gcloud CLI  
-6. Uploaded code to GitHub  
+1. Created web application using HTML, CSS, and JavaScript  
+2. Tested locally in browser  
+3. Uploaded code to GitHub  
+4. Deployed project using Netlify  
+5. Generated live URL  
 
 ---
 
 ## 📊 Summary
-This project successfully demonstrates how a Python web application can be deployed on a cloud platform. It helps in understanding cloud deployment, version control, and web development basics.
+This project demonstrates how a web application can be deployed on a cloud platform. It helps in understanding hosting, version control, and basic web development.
 
 ---
 
 ## 📚 References
-- https://cloud.google.com/appengine  
-- https://flask.palletsprojects.com/  
-- https://github.com  
+- https://www.netlify.com/  
+- https://github.com/  
+- https://developer.mozilla.org/  
 
 ---
 
